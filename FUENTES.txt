@@ -1,0 +1,14 @@
+SOMMTEMPO / FOTOGRAFÍAS
+========================
+Las imágenes se cargan desde Unsplash para conservar fotografía real de alta calidad.
+
+hero:      https://unsplash.com/photos/the-sun-is-setting-over-a-vineyard-with-vines--nWxUpRyxs0
+barricas:  https://unsplash.com/photos/wooden-barrels-aging-in-a-dark-rustic-cellar-xVxV0gPOm_E
+botella:   https://unsplash.com/photos/red-wine-bottle-and-glass-on-a-dark-wooden-table-3omJfy47K-8
+botella 2: https://unsplash.com/photos/a-bottle-of-wine-on-a-table-0CH7I9djjhY
+botella 3: https://unsplash.com/photos/five-wine-bottles-Jx4ILQF0aL4
+brindis:   https://unsplash.com/photos/people-clinking-wine-glasses-at-dinner-DmO662qvWO8
+
+Las páginas anteriores identifican las fotografías como gratuitas bajo la licencia de Unsplash.
+En producción puedes descargar cada fotografía desde su página oficial y guardarla con estos
+nombres dentro de img/; el CSS ya separa cada uso fotográfico en una clase independiente.
